@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @siiyyam7620
+- 👋 Hi, I’m @ex-men.io/mine
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-siiyyam7620/siiyyam7620 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+wolverine/ex-men is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
